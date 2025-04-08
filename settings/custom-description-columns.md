@@ -1,11 +1,13 @@
 # Custom Description Columns
 
-<h3><strong>Navigate to your Profile</strong> settings</h3>
-<ul>
-<li>Located towards the bottom you will see <strong>Custom Description 1</strong> and <strong>Custom Description 2</strong></li>
-<li><strong>Click on the space </strong>above the line; enter description/name</li>
-<li>Click <strong>UPDATE </strong>to save changes</li>
-</ul>
-<p><strong>NOTE</strong>: If you do not create a label, they will display as <strong>Custom Description 1</strong> and <strong>Custom Description 2</strong> on claims table. You can hide them from the table by toggling them off in the <strong>Columns Settings.</strong></p>
-<p><strong> </strong></p>
-<p><strong> </strong></p>
+### **Navigate to your Profile** settings
+
+* Located towards the bottom you will see **Custom Description 1** and **Custom Description 2**
+* **Click on the space** above the line; enter description/name
+* Click **UPDATE** to save changes
+
+**NOTE**: If you do not create a label, they will display as **Custom Description 1** and **Custom Description 2** on claims table. You can hide them from the table by toggling them off in the **Columns Settings.**
+
+&#x20;
+
+&#x20;

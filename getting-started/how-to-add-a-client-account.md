@@ -1,9 +1,9 @@
 # How To Add A Client Account
 
-<p> Adding a Client Account:</p>
-<ol>
-<li>From the side menu, click on ‘Manage Accounts </li>
-<li>Click on the '+' sign located at the far right within the green header.</li>
-<li>A pop-up box will appear; enter the information.</li>
-<li>Click ‘CREATE’. A list of all accounts will appear.<br/><br/></li>
-</ol>
+&#x20;Adding a Client Account:
+
+1. From the side menu, click on ‘Manage Accounts&#x20;
+2. Click on the '+' sign located at the far right within the green header.
+3. A pop-up box will appear; enter the information.
+4. Click ‘CREATE’. A list of all accounts will appear.\
+   \
